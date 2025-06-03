@@ -1,5 +1,7 @@
 <h1>Cadastro de Usuários - Fullstack (React + ASP.NET Core)</h1>
-
+![GIF de exemplo](gif/app.gif)
+<br>
+<br>
 Visão Geral
 Projeto fullstack para cadastro de usuários com:
 
@@ -37,5 +39,11 @@ ASP.NET Core 8
 Entity Framework Core
 
 MySQL:
+<div>
+  <img src="MySql.png" width="600px"/>
+</div>
 
 Swagger (documentação de API):
+<div>
+  <img src="Swagger.png" width="600px"/>
+</div>
