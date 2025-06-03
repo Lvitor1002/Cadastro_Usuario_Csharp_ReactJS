@@ -11,32 +11,25 @@ Backend: ASP.NET Core API
 
 Banco de dados: MySQL (via Entity Framework Core)
 
-Permite criar, listar e remover usuários com validações em tempo real.
+Permite: 
+        ✅Criar, 
+        ✅Listar,
+        ✅Remover usuários com validações em tempo real, inclusive para email's repetidos usando <strong>unique()</strong> no backend.
 
-Funcionalidades
-✅ Cadastro de usuários (nome, idade, email)
-
-✅ Listagem de todos os usuários
-
-✅ Exclusão de usuários com confirmação
-
-✅ Feedback visual com SweetAlert2
-
-✅ Conexão entre frontend e backend
 
 <h3>Tecnologias Utilizadas</h3>
 
 <h1>Backend</h1>Frontend
 
-React.js
-Axios (para requisições HTTP)
-SweetAlert2 (notificações)
-Vite (build tool)
+✅ React.js
+✅ Axios (para requisições HTTP)
+✅ SweetAlert2 (notificações)
+✅ Vite (build tool)
 
 <h1>Backend</h1>
 
-ASP.NET Core 8
-Entity Framework Core
+✅ ASP.NET Core 8
+✅ Entity Framework Core
 
 MySQL:
 <div>
