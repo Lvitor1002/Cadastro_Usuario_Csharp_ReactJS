@@ -125,3 +125,8 @@
 }
 
 
+@media screen and (max-width: 490px){
+    .container{
+        margin-top: 100%;
+    }
+}
