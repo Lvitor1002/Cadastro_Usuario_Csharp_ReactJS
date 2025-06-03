@@ -1,0 +1,127 @@
+
+.container{
+    width: 100%;
+    min-width: 350px;
+    height: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    margin-bottom: 20%;
+}
+
+.formulario{
+    background-color: white;
+    width: 100%;
+    height:100%;
+    padding: 10px;
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    box-shadow: 0px 0px 30px -7px black;
+}
+.formulario h1{
+    position: relative;
+    bottom: 5%;
+    font-size: 1.7rem;
+    color: purple;
+}
+
+.formulario input{
+    outline: none;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: .5px solid rgba(128, 0, 128, 0.096);
+    font-size: 1rem;
+    text-align: start;
+}
+.formulario input::placeholder{
+    color: rgba(128, 0, 128, 0.644);
+}
+
+.formulario button{
+    cursor: pointer;
+    width: 320px;
+    padding: 10px;
+    margin-top: 10%;
+    border-radius: 30px;
+    border: 0;
+    color: white;
+    background-color: purple;
+    font-size: 1.1rem;
+    transition: all 1s;
+}
+.formulario button:hover{
+    color: purple;
+    border: .5px solid rgb(128, 0, 128);
+    background-color: transparent;
+    transition-duration: 0s;
+}
+.formulario button:active{
+    transform: scale(1.09);
+    color: rgba(128, 0, 128, 0.589);
+    border: 2px solid rgb(128, 0, 128);
+    transition-duration: 0s;
+}
+.campoRolagem{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    overflow-y: scroll;
+}
+.campos{
+    background-color: rgba(128, 0, 128, 0.589);
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    padding: 10px 0;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;   
+    
+}
+.controleCampo{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 80%;
+    
+    
+}
+.controleCampo p{
+    font-size: .9rem;
+    color: white;
+    font-weight: bold;
+}
+.campos button{
+    padding: 5px;
+    font-size: 1.8rem;
+    color: red;
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: all 1s;
+}
+.campos button:active{
+    transform: scale(1.09);
+    color: white;
+    transition-duration: 0s;
+}
+
+

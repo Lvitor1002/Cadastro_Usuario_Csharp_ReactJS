@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+  }
+
+
+body{
+  background: linear-gradient(to bottom right,rgb(0, 117, 163),rgb(83, 1, 83), rgb(66, 0, 66),rgb(0, 0, 99),rgb(0, 0, 90),rgb(121, 78, 0));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 110vh;
+}

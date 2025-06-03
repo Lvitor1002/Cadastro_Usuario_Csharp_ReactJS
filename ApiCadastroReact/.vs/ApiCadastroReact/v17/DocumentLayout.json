@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|c:\\users\\luiz\\desktop\\react js \u002B asp.net\\cadastro\\apicadastroreact\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|c:\\users\\luiz\\desktop\\react js \u002B asp.net\\cadastro\\apicadastroreact\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|solutionrelative:repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|c:\\users\\luiz\\desktop\\react js \u002B asp.net\\cadastro\\apicadastroreact\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|solutionrelative:models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|c:\\users\\luiz\\desktop\\react js \u002B asp.net\\cadastro\\apicadastroreact\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|solutionrelative:data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|c:\\users\\luiz\\desktop\\react js \u002B asp.net\\cadastro\\apicadastroreact\\data\\usuariosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|solutionrelative:data\\usuariosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|c:\\users\\luiz\\desktop\\react js \u002B asp.net\\cadastro\\apicadastroreact\\repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E88C3-FDEF-4B62-A8BE-1A6F39D8A5CA}|ApiCadastroReact.csproj|solutionrelative:repository\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioModels.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Models\\UsuarioModels.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioModels.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Models\\UsuarioModels.cs",
+              "RelativeToolTip": "Models\\UsuarioModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:09:58.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Data\\Map\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "Data\\Map\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Data\\Map\\UsuarioMap.cs",
+              "RelativeToolTip": "Data\\Map\\UsuarioMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:09:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosDB.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Data\\UsuariosDB.cs",
+              "RelativeDocumentMoniker": "Data\\UsuariosDB.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Data\\UsuariosDB.cs",
+              "RelativeToolTip": "Data\\UsuariosDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:09:47.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:20:18.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Repository\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Repository\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:51:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Luiz\\Desktop\\React Js \u002B Asp.Net\\cadastro\\ApiCadastroReact\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:51:27.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
