@@ -1,6 +1,6 @@
 <h1>Cadastro de Usuários - Fullstack (React + ASP.NET Core)</h1>
 
-![GIF de exemplo](Demonstracao (1).gif)
+![GIF de exemplo](Demonstracao(1).gif)
 
 <br>
 <br>
