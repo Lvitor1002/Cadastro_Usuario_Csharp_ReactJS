@@ -21,7 +21,7 @@ Permite:
 
 <h3>Tecnologias Utilizadas</h3>
 
-<h1>Backend</h1>Frontend
+<h1>Frontend</h1>
 
 ✅ React.js
 ✅ Axios (para requisições HTTP)
